@@ -18,3 +18,4 @@ uvicorn==0.15.0
 watchgod==0.7
 websockets==10.1
 xgboost==1.6.1
+scikit-learn==0.22.1
